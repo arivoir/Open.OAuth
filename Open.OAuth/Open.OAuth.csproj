@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Open.Net.Http" Version="1.0.0-CI00005" />
+    <PackageReference Include="Open.Net.Http" Version="1.0.0-CI00006" />
   </ItemGroup>
 
 </Project>
